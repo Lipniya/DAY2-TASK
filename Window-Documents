@@ -1,0 +1,14 @@
+Window object:
+         It is the top most object and outermost element of the object hieraxhy.
+                     window.method_name;
+
+Document object:
+         Each html document that gets loaded into a window becomes a document object.The document contains the contents of the page.
+         using document object,javasctipt can modify,add and delete the html elements,attributes css styles in the page
+                     document.property_name;
+
+let URL=window.Document.URL;
+    console.log(URL);
+
+document.title
+    document.scripts
